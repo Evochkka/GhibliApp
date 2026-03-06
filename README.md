@@ -34,11 +34,13 @@
 
 | Главный экран | Список фильмов | Детали фильма |
 |:---:|:---:|:---:|
-| ![Home Screen](https://github.com/Evochkka/GhibliApp/raw/master/screenshots/main.png) | ![List Screen](https://github.com/Evochkka/GhibliApp/raw/master/screenshots/films.png) | ![Detail Screen](https://github.com/Evochkka/GhibliApp/raw/master/screenshots/film_detail.png) |
+| ![Home Screen](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/main.jpg) | ![List Screen](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/films.jpg) | ![Detail Screen](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/film_detail.jpg) |
 
 | Экран локаций | Состояние ошибки | Индикатор загрузки |
 |:---:|:---:|:---:|
-| ![Locations](https://github.com/Evochkka/GhibliApp/raw/master/screenshots/loc.png) | ![Error State](https://github.com/Evochkka/GhibliApp/raw/master/screenshots/retry.png) | ![Loading State](https://github.com/Evochkka/GhibliApp/raw/master/screenshots/load.png) |
+| ![Locations](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/loc.jpg) 
+| ![Error State](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/retry.jpg) 
+| ![Loading State](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/load.jpg) |
 
 ---
 
