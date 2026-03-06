@@ -38,9 +38,7 @@
 
 | Экран локаций | Состояние ошибки | Индикатор загрузки |
 |:---:|:---:|:---:|
-| ![Locations](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/loc.jpg) 
-| ![Error State](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/retry.jpg) 
-| ![Loading State](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/load.jpg) |
+| ![Locations](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/loc.jpg) | ![Error State](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/retry.jpg) | ![Loading State](https://github.com/Evochkka/GhibliApp/raw/develop/screenshots/load.jpg) |
 
 ---
 
